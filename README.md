@@ -1,2 +1,2 @@
 # prueba-MarceGomez
-Perfil Marcela Gomez
+Hola mi nombre es Marcela Gómez y desarrollo software
